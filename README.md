@@ -1,4 +1,5 @@
 # Angkutin
+### Aplikasi manajemen layanan pembuangan sampah dengan Sistem Informasi Geografis (SIG)
 <!-- BACKGROUND PROJECT -->
 <p align="center">
 <img width="200px" src="https://github.com/angkutin/angkutin-mobile/blob/master/assets/logo.png"> 
@@ -22,7 +23,7 @@ Dengan fitur-fitur tersebut, Angkutin memberikan kemudahan bagi masyarakat untuk
 
 <!-- Feature -->
 ## Fitur Utama :bulb:
-Aplikasi mobile angkutin dibagi menjadi dua role yaitu Masyarakat dan Petugas Kebersihan. Berikut fitur yang ditawarkan oleh Angkutin :
+Aplikasi mobile angkutin dibagi menjadi dua role yaitu Masyarakat dan Petugas Kebersihan, dan juga aplikasi web dengan role Admin. Berikut fitur yang ditawarkan oleh Angkutin :
 ### Masyarakat
 Fitur utama yang ada pada aplikasi mobile Masyarakat ialah :
 - Mendapatkan informasi pengangkutan sampah harian
@@ -38,6 +39,7 @@ Fitur utama yang ada pada aplikasi mobile Petugas Kebersihan ialah :
 - Melihat daftar permintaan pengangkutan sampah yang diajukan oleh Masyarakat
 - Melihat tugas laporan timbunan sampah liar yang sudah diverifikasi oleh Admin
 - Memantau layanan yang sedang berjalan (permintaan/sampah liar)
+
 
 ### Admin
 Fitur utama yang ada pada aplikasi web admin ialah :
@@ -56,8 +58,8 @@ Fitur utama yang ada pada aplikasi web admin ialah :
 
 
 ## Contributors :brain:
-Aplikasi mobile Angkutin oleh [Fadhil Muhammad](https://www.linkedin.com/in/fadhil-muhammad79/) <br>
-Aplikasi web admin Angkutin oleh [Willy Aryanda Nasution](https://www.linkedin.com/in/willy-aryanda-nasution-001b881b5/)
+Aplikasi mobile (petugas kebersihan & masyarakat) Angkutin oleh [Fadhil Muhammad](https://www.linkedin.com/in/fadhil-muhammad79/) <br>
+Aplikasi web (admin) Angkutin oleh [Willy Aryanda Nasution](https://www.linkedin.com/in/willy-aryanda-nasution-001b881b5/)
 
 
 :grey_exclamation: Beberapa file telah disembunyikan atau dimodifikasi demi keamanan.
